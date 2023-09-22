@@ -3,7 +3,7 @@ function Home() {
     <h1>
       fazendinha depois dessa aula?
       <br></br>
-      <img src="https://tenor.com/pt-BR/view/cat-blink-cat-blinking-cat-funny-cat-funny-cat-blinking-gif-27202865"></img>
+      <img src="https://media.tenor.com/oXdKbZ9WBIoAAAAd/cat-blink-cat-blinking.gif"></img>
     </h1>
   );
 }
