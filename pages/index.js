@@ -1,9 +1,9 @@
 function Home() {
   return (
     <h1>
-      João, faltam 5 meses!!!!
+      fazendinha depois dessa aula?
       <br></br>
-      <img src="https://media.tenor.com/So_wSVwEzmYAAAAC/cat-died.gif"></img>
+      <img src="https://images-ext-1.discordapp.net/external/B6621XsJQpFu9vpftE8TFtjv5skRvcNiltDiY861le8/https/media.tenor.com/oXdKbZ9WBIoAAAPo/cat-blink-cat-blinking.mp4"></img>
     </h1>
   );
 }
